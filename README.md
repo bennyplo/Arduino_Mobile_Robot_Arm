@@ -14,7 +14,7 @@ https://store.arduino.cc/arduino-uno-rev3
 4. PWM Servo Driver IIC interface PCA9685
 http://wiki.sunfounder.cc/index.php?title=PCA9685_16_Channel_12_Bit_PWM_Servo_Driver
 
-5.L298N Dual H Bridge Stepper Motor Driver
+5. L298N Dual H Bridge Stepper Motor Driver
 https://tronixlabs.com.au/news/tutorial-l298n-dual-motor-controller-module-2a-and-arduino/
 
 6. HC-06 Wireless Serial 4 Pin Bluetooth RF Transceiver 
